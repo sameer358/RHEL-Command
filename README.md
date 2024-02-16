@@ -1,3 +1,5 @@
+RHEL Useful Commands
+
 If you want to extract only the usernames from the `/etc/passwd` file, you can use various command-line tools like `awk`, `cut`, or `sed`. Here are a few examples:
 
 Using `awk`:
